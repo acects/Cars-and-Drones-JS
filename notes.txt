@@ -1,0 +1,3 @@
+Shift + Ctrl + C (to open comand prompt with path setup)
+npm init (to initialize npm)
+npm run dev (the app to be connected with the browser through port)
